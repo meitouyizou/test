@@ -1,1 +1,1 @@
-test
+test CentOS 8
