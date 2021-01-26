@@ -1,7 +1,7 @@
 test CentOS 8 
 Ubuntu i386
 
-yyyyyyyyyy
+ppppppppppp
 
 uuuuuuuu
 
