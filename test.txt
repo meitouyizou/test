@@ -5,4 +5,6 @@ ppppppppppp
 
 ooooooooo
 
-lllllllll
+kkkkkkkkk
+
+ubuntu i386
