@@ -7,4 +7,12 @@ ooooooooo
 
 kkkkkkkkk
 
+<<<<<<< HEAD
 ubuntu i386
+=======
+
+
+
+
+CentOS 8
+>>>>>>> 03e0e73c041045e639b0cd77c56fb0972900cb8d
